@@ -35,7 +35,7 @@ Desktop
 ### Links
 
 - Solution URL: [Github](https://github.com/anerpeco/FAQ-accordion-card-solution)
-- Live Site URL: [Vercel](https://your-live-site-url.com)
+- Live Site URL: [Vercel](https://faq-accordion-card-solution-anerpeco.vercel.app/)
 
 ## My process
 
